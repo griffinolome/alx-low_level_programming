@@ -1,4 +1,4 @@
-#include <stdioh>
+#include <stdio.h>
 /**
  * main - This is found in the beginning of any c code
  * Return: always found at the end
