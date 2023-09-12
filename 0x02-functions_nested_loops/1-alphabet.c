@@ -1,8 +1,13 @@
-#include <stdio.h>
+#include "main.h"
 /**
- * main - beginning of code
- * Return: end of code
+ * print_alphabet - check the code
+ * Return: always 0
  */
-int main(void)
+void print_alphabet(void)
 {
+	char i;
 
+	for (i = 'a' ; i <= 'z' ; i++)
+		_putchar(i);
+	_putchar('\n');
+}
