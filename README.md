@@ -1,1 +1,1 @@
-beginning of c
+this is the third directory for pointers
